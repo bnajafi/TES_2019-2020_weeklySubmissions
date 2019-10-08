@@ -14,7 +14,7 @@ you should then go to the folder of the week for which you would like to send yo
 
 ### Step 2: submitting the file 
 
-Once you did the previous steps, you should find the file in your own repository, though it has not  been submitted yet. You should now go to pull requests (the thris tab) -->  new pull request --> create pull request --> commit   (here you can also write a message about your submission) in case there is any particular detail you would like to add ) 
+Once you did the previous steps, you should find the file in your own repository, though it has not  been submitted yet. You should now go to pull requests (the third tab) -->  new pull request --> create pull request --> commit   (here you can also write a message about your submission in case there is any particular detail you would like to add ) 
 
 **Note** Please pay attention that once you send your file via pull request, you will still not see your file in this repository, this is due to the fact that I should accept your pull request.  
 
