@@ -9,7 +9,10 @@ Fork this repository, then go to your own profile --> repositories and find the 
 
 you should then go to the folder of the week for which you would like to send your submission (e.g. Week 1). then click on upload file and upload the corresponding submission's PDF file.
 
-**File Name:** The file should be called week1_nameInitial+surname.pdf, e.g. Marco Rossi: week1_MRossi.pdf) 
+
+**File Format:** .PDF is The only acceptable file format for submissions
+
+**File Name:** The file should be called week1_nameInitial+surname.pdf:  e.g. Marco Rossi: week1_MRossi.pdf
 
 
 ### Step 2: submitting the file 
