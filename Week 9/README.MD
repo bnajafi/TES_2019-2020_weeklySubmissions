@@ -6,6 +6,7 @@ Use a weather forecast website, and utilize the psychrometric chart and the form
 
 
 [Weather Forecast Website example](Weather Forecast Website example){:target="_blank"}
+
 Umidità: Relative humidity, Pressione atmosferica: Air total pressure (1 hPa: 0.1 kPa), Temperatura effettiva: temperature to be utilized. 
 
 **Task2**
