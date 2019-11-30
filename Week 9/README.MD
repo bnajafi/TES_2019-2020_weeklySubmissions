@@ -5,7 +5,7 @@ Use a weather forecast website, and utilize the psychrometric chart and the form
 
 
 
-![Weather Forecast Website example](Whttps://www.meteo-oggi.it/italia/regione-emilia-romagna/tempo-piacenza/){:target="_blank"}
+![Weather Forecast Website example](Whttps://www.meteo-oggi.it/italia/regione-emilia-romagna/tempo-piacenza/)
 
 Umidità: Relative humidity, Pressione atmosferica: Air total pressure (1 hPa: 0.1 kPa), Temperatura effettiva: temperature to be utilized. 
 
